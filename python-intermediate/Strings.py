@@ -90,4 +90,6 @@ string1 ="hello"
 string2 =122
 my_string =f"string1 {string1} and string2 {string2+2}"
 print(my_string)
+print("ajjayya")
+
 
