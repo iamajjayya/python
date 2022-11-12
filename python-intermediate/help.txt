@@ -1,0 +1,11 @@
+2022-11-10 20:38:34 ERROR-This is error message
+2022-11-10 20:38:34 WARNING-This is warning message
+2022-11-10 20:38:34 CRITICAL-This is critical message
+2022-11-10 20:40:31 ERROR-This is error message
+2022-11-10 20:40:31 WARNING-This is warning message
+2022-11-10 20:40:31 CRITICAL-This is critical message
+2022-11-10 20:40:31 ERROR-Division By error
+2022-11-10 20:42:17 ERROR-This is error message
+2022-11-10 20:42:17 WARNING-This is warning message
+2022-11-10 20:42:17 CRITICAL-This is critical message
+2022-11-10 20:42:17 ERROR-Division By error
